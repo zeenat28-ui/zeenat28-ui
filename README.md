@@ -14,20 +14,16 @@
 
 <br/>
 
-### 🛠️ Professional Profile
+### 🚀 About Me
 
 ```javascript
 const zeenatRiaz = {
   location: "Gujrat, Pakistan PK",
-  currentRole: "Head Associate (Web & App Development) @ Azee Studios",
-  education: "BS Digital Forensics and Cybersecurity @ Lahore Garrison University",
-  cgpa: "3.42 (Class Rank: Top 2)",
-  coreProficiency: {
-    frontend: ["React.js", "Tailwind CSS", "JavaScript (ES6+)", "HTML/CSS"],
-    backend: [".NET Framework", "Python (FastAPI)", "Go", "Ruby", "PHP"],
-    security: ["Advanced Static Malware Analysis", "Penetration Testing", "Digital Forensics"],
-    tools: ["PostgreSQL", "MSSQL", "Metasploit", "Wireshark", "Shell Scripting"]
-  },
-  interests: ["Secure Software Development", "Badminton", "Urdu Poetry"],
-  mission: "Bridging the gap between software engineering and modern security technologies to protect digital assets. 🛡️"
+  currentRole: "Head Associate & Full Stack Developer @ Azee Studios",
+  education: "BS Digital Forensics and Cybersecurity",
+  experience: "Full Stack Development, Threat Analysis & Digital Investigations",
+  interests: ["Secure Software Development", "Web Technologies", "Cybersecurity Architecture"],
+  currentlyWorking: "Zero-Trust Platforms & Secure Web Applications",
+  lookingToCollaborate: "Innovative Tech Solutions & Security Tools",
+  funFact: "I bridge the gap between software engineering and modern security to protect digital assets! 🛡️"
 };

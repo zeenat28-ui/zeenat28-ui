@@ -1,29 +1,29 @@
 <div align="center">
-  <h2>Zeenat Riaz</h2>
-  <h4>Full Stack Developer | Cybersecurity Analyst</h4>
-
+  <h2>Hi, I'm Zeenat Riaz 👋</h2>
+  <p><b>Full Stack Web & App Developer | Cybersecurity Analyst</b></p>
+  
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_MY_WEBSITE-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:zeenatriaz468@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
 </div>
 
-### 🛠 Technical Expertise
+---
 
-**Programming & Databases**
-* **Languages:** C++, Python, Go, Ruby, Shell Scripting, Assembly (EMU8086)
-* **Web:** Full Stack Web & App Development, JavaScript (ES6+), React.js, Tailwind CSS, HTML, CSS, PHP[cite: 1]
-* **Databases:** PostgreSQL, MSSQL[cite: 1]
+### 💼 Professional Summary
+Dual-skilled professional specializing in Full Stack Development and Cybersecurity. Experienced in building secure-by-design web and application platforms, conducting digital investigations, threat analysis, and malware evaluation[cite: 1].
 
-**Cybersecurity & Forensics**
-* **Core Competencies:** Secure Software Development, Advanced Static Malware Analysis, Network Security, Penetration Testing, Ethical Hacking[cite: 1]
-* **Forensics:** Computer, Mobile, and Network Forensics, Data Recovery, Active Directory Forensics, Memory Dump Analysis[cite: 1]
+### 🛠️ Technical & Security Expertise
 
-**Tools & Utilities**
-* **Forensic Tools:** Autopsy, FTK Imager, Bulk Extractor[cite: 1]
-* **Network & Pentest:** Nmap, Metasploit, Wireshark, Ettercap, Packet Tracer[cite: 1]
-* **AI & LLMs:** Multi-modal LLMs (Claude, ChatGPT, DeepSeek, Gemini)[cite: 1]
-* **Design:** Adobe Acrobat, Professional Graphic Design[cite: 1]
+* **Full Stack Development:** C++, Python, Go, Ruby, PHP, JavaScript (ES6+), React.js, Tailwind CSS, HTML, CSS, Shell Scripting, Assembly[cite: 1].
+* **Cybersecurity & Threat Analysis:** Advanced Static Malware Analysis, Penetration Testing, Ethical Hacking, Secure Software Development, Network Security[cite: 1].
+* **Digital Forensics:** Computer, Mobile, Network, and Operating System Forensics, Memory Dump Analysis, Data Recovery, Active Directory Forensics[cite: 1].
+* **Tools & Databases:** PostgreSQL, MSSQL, Nmap, Metasploit, Wireshark, Autopsy, FTK Imager, Bulk Extractor[cite: 1].
+
+### 🚀 Key Projects
+* **SanityX (Zero-Trust CDR Platform):** Standalone .NET desktop application for content disarm and reconstruction, preventing file-based cyber threats through secure sandboxing and forensic logging[cite: 1].
+* **ForensicVideo-X (AI-Powered Video Forensics):** Platform built with Go, .NET, and React.js for video integrity analysis, deepfake detection, and chain-of-custody verification[cite: 1].
+* **Project SHIELD OS (Auth System):** Web-based JWT Zero Trust Session Intelligence platform built with Python (FastAPI) and PostgreSQL for continuous authentication and account hijacking prevention[cite: 1].
 
 ---
-*Building secure-by-design applications and conducting rigorous digital investigations.*[cite: 1]

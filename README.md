@@ -1,32 +1,29 @@
 <div align="center">
-  <h2>👋 Hi, I'm Zeenat Riaz</h2>
-  <h4>Full Stack Web & App Developer | Cybersecurity Analyst</h4>
-  
+  <h2>Zeenat Riaz</h2>
+  <h4>Full Stack Developer | Cybersecurity Analyst</h4>
+
   <p>
-    <a href="mailto:zeenatriaz468@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="tel:+923316210637"><img src="https://img.shields.io/badge/PHONE-+92_3316210637-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_MY_WEBSITE-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 </div>
 
-<br/>
+### 🛠 Technical Expertise
 
-### 🚀 About Me
-I am a Digital Forensics and Cybersecurity graduate with a focus on secure software development, digital investigations, and threat analysis. I aim to protect digital assets through modern security technologies and secure-by-design practices.
+**Programming & Databases**
+* **Languages:** C++, Python, Go, Ruby, Shell Scripting, Assembly (EMU8086)
+* **Web:** Full Stack Web & App Development, JavaScript (ES6+), React.js, Tailwind CSS, HTML, CSS, PHP[cite: 1]
+* **Databases:** PostgreSQL, MSSQL[cite: 1]
 
-### 💻 Technical Expertise
-* **Development:** Full Stack Web & App Development, C++, Python, Ruby, HTML/CSS, PHP, .NET.
-* **Cybersecurity & Forensics:** Ethical Hacking, Penetration Testing, Malware Analysis, Network Security, Digital Investigations.
-* **Tools:** Nmap, Metasploit, Wireshark, Autopsy, FTK Imager, Bulk Extractor[cite: 1].
+**Cybersecurity & Forensics**
+* **Core Competencies:** Secure Software Development, Advanced Static Malware Analysis, Network Security, Penetration Testing, Ethical Hacking[cite: 1]
+* **Forensics:** Computer, Mobile, and Network Forensics, Data Recovery, Active Directory Forensics, Memory Dump Analysis[cite: 1]
 
-### 🛠️ Key Projects
-* **SanityX (FYP):** Zero-Trust Content Disarm and Reconstruction (CDR) platform for safe file handling[cite: 1].
-* **SHIELD OS:** Zero Trust Session Intelligence platform for threat detection and authentication[cite: 1].
-* **AI Video Forensics:** Platform for tampering detection, metadata analysis, and forensic reporting[cite: 1].
-
-### 🎓 Education & Certifications
-* **BS Digital Forensics and Cybersecurity** | Lahore Garrison University | CGPA 3.42 (Top 2)[cite: 1].
-* **Certified White Hat Hacker** & **Certified Forensics Analyst** (LGU)[cite: 1].
-* **Cybersecurity Analyst Simulation** (Forage/Mastercard)[cite: 1].
+**Tools & Utilities**
+* **Forensic Tools:** Autopsy, FTK Imager, Bulk Extractor[cite: 1]
+* **Network & Pentest:** Nmap, Metasploit, Wireshark, Ettercap, Packet Tracer[cite: 1]
+* **AI & LLMs:** Multi-modal LLMs (Claude, ChatGPT, DeepSeek, Gemini)[cite: 1]
+* **Design:** Adobe Acrobat, Professional Graphic Design[cite: 1]
 
 ---
-*Dedicated to building secure and innovative technical solutions.*[cite: 1]
+*Building secure-by-design applications and conducting rigorous digital investigations.*[cite: 1]

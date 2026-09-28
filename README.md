@@ -11,36 +11,30 @@
   </p>
 </div>
 
----
+<br>
 
-## 👋 About Me
+## OVERVIEW
 
-I am a **Systems and MLOps Engineer** focused on building, optimizing, and securing AI infrastructure. My primary work revolves around hardware acceleration, container optimization, and ensuring machine learning models run efficiently on next-generation silicon.
+I am a Systems and MLOps Engineer focused on building, optimizing, and securing AI infrastructure. My primary work revolves around hardware acceleration, container optimization, and ensuring machine learning models run efficiently on next-generation silicon.
 
-While my core expertise is deep in the backend (compilers, memory layouts, and inference engines), my background in **Digital Forensics** and **Full-Stack Development** gives me a unique advantage: I don't just optimize models—I can build the secure, end-to-end platforms needed to deploy them safely.
+While my core expertise is deep in the backend (compilers, memory layouts, and inference engines), my background in Digital Forensics and Full-Stack Development gives me a unique advantage: I don't just optimize models—I can build the secure, end-to-end platforms needed to deploy them safely.
 
-### 🔬 What I Do
+### Core Domains
 
 *   **AI Compute & Hardware Acceleration:** Optimizing LLM inference and edge AI deployments across architectures like NVIDIA CUDA and AMD ROCm/Ryzen AI.
 *   **Infrastructure Optimization:** Streamlining Docker container environments, decoupling toolchains, and reducing deployment bottlenecks for MLOps pipelines.
-*   **Secure & Scalable Deployment:** Applying zero-trust security principles and full-stack knowledge (React/Go) to ensure that AI systems are not only fast, but also accessible and safe from vulnerabilities.
+*   **Secure & Scalable Deployment:** Applying zero-trust security principles and full-stack knowledge to ensure that AI systems are accessible and safe from vulnerabilities.
 
 ---
 
-## 🛠️ Technical Arsenal
+## TECHNOLOGIES
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C++, Go, Python, C, Bash |
-| **AI & Compute** | PyTorch, ONNX Runtime, CUDA, AMD ROCm, vLLM |
-| **Infrastructure** | Docker, Kubernetes, Linux |
-| **Supporting Skills** | React.js, Tailwind CSS, System Security & Forensics |
+**Systems, AI & Scripting**  
+<img src="https://skillicons.dev/icons?i=cpp,go,py,c,bash,pytorch,linux&theme=dark" />
+
+**Infrastructure & Full-Stack**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,react,tailwind,figma&theme=dark" />
+
+> **Specialized Ecosystems & Forensics:** CUDA, AMD ROCm, XDNA, ONNX Runtime, vLLM, Volatility, Autopsy
 
 ---
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeenat28-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=0077BE&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeenat28-ui&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=0077BE&currStreakNum=c9d1d9" alt="GitHub Streak" width="48%" />
-</div>

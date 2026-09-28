@@ -1,41 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077BE&height=200&section=header&text=Zeenat%20Riaz&fontSize=70&fontAlignY=35&animation=twinkling&desc=Systems%20%26%20MLOps%20%7C%20Full-Stack%20Development%20%7C%20Security&descAlignY=55&descSize=20&fontColor=00FFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077BE&height=200&section=header&text=Zeenat%20Riaz&fontSize=70&fontAlignY=35&animation=twinkling&desc=Systems%20and%20MLOps%20Engineer&descAlignY=55&descSize=20&fontColor=00FFFF" />
 </div>
 
 <div align="center">
   <p>
-    <kbd> C++ / Go / Python </kbd>   <kbd> React & Tailwind </kbd>   <kbd> CUDA / ROCm </kbd>   <kbd> Digital Forensics </kbd>
+    <kbd> C++ / Go / Python </kbd>   <kbd> CUDA / ROCm </kbd>   <kbd> AI Infrastructure </kbd>
   </p>
   <p>
-    <i>Software Engineer focused on clean code, secure infrastructure, and optimized systems.</i>
+    <i>Specializing in Deep Learning Compute, Hardware Optimization, and Secure Infrastructure.</i>
   </p>
 </div>
 
 ---
 
-## 👋 About My Work
+## 👋 About Me
 
-I am a software developer who enjoys working across different layers of technology. My focus is on building systems that are functional, secure, and well-optimized, whether that means designing a responsive frontend interface or debugging container environments for machine learning workflows.
+I am a **Systems and MLOps Engineer** focused on building, optimizing, and securing AI infrastructure. My primary work revolves around hardware acceleration, container optimization, and ensuring machine learning models run efficiently on next-generation silicon.
 
-Instead of confining myself to one stack, I explore and work within three main domains:
+While my core expertise is deep in the backend (compilers, memory layouts, and inference engines), my background in **Digital Forensics** and **Full-Stack Development** gives me a unique advantage: I don't just optimize models—I can build the secure, end-to-end platforms needed to deploy them safely.
 
-### ⚙️ Systems & MLOps
-I work on optimizing infrastructure for AI and machine learning workflows. This includes:
-* Streamlining Docker container environments to reduce image sizes and deployment times.
-* Managing dependency resolution and ensuring strict environment isolation for edge AI deployments.
-* Exploring hardware acceleration pipelines and inference optimizations across platforms like AMD ROCm, Ryzen AI, and CUDA.
+### 🔬 What I Do
 
-### 💻 Full-Stack Development
-I build end-to-end applications with a focus on modern, intuitive user interfaces and robust backend logic.
-* Developing clean, responsive frontends using **React.js** and **Tailwind CSS**, often utilizing modern dark-mode and bento-grid aesthetics.
-* Building concurrent and efficient backend APIs using **Go** and **Python (FastAPI)**.
-* Integrating seamless data flows from the database layer right up to the user interface.
-
-### 🛡️ Cybersecurity & Digital Forensics
-With a strong foundation in security, I incorporate safe practices into my development lifecycle.
-* Implementing zero-trust architectural concepts and session integrity mechanisms.
-* Working on data sanitization and content disarm strategies (CDR) to mitigate embedded threats.
-* Utilizing forensics tools for system analysis, memory forensics, and digital chain-of-custody logging.
+*   **AI Compute & Hardware Acceleration:** Optimizing LLM inference and edge AI deployments across architectures like NVIDIA CUDA and AMD ROCm/Ryzen AI.
+*   **Infrastructure Optimization:** Streamlining Docker container environments, decoupling toolchains, and reducing deployment bottlenecks for MLOps pipelines.
+*   **Secure & Scalable Deployment:** Applying zero-trust security principles and full-stack knowledge (React/Go) to ensure that AI systems are not only fast, but also accessible and safe from vulnerabilities.
 
 ---
 
@@ -43,11 +31,10 @@ With a strong foundation in security, I incorporate safe practices into my devel
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++, Go, Python, C, Bash, JavaScript |
-| **Frontend & UI** | React.js, Tailwind CSS, HTML, CSS, Figma, Illustrator |
-| **AI & Compute** | PyTorch, ONNX Runtime, CUDA, AMD ROCm |
+| **Languages** | C++, Go, Python, C, Bash |
+| **AI & Compute** | PyTorch, ONNX Runtime, CUDA, AMD ROCm, vLLM |
 | **Infrastructure** | Docker, Kubernetes, Linux |
-| **Forensics Tools** | Volatility, KAPE, Registry Explorer, FTK Imager, Wireshark |
+| **Supporting Skills** | React.js, Tailwind CSS, System Security & Forensics |
 
 ---
 

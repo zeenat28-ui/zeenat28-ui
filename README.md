@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Zeenat Riaz | MLOps and AI Security Engineer" width="100%"/>
+<img src="header.svg" alt="Zeenat Riaz | MLOps and AI Security Engineer" width="100%"/>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## 🌊 About me
 
-I'm an **MLOps and AI security engineer** from Pakistan. I hold a BS in Digital Forensics and Cyber Security (Lahore Garrison University), so I build ML pipelines with one extra question in mind: *how can this break or be attacked?*
+I'm an **MLOps and AI security engineer** based in Gujrat, Pakistan. I hold a BS in Digital Forensics and Cyber Security (Lahore Garrison University), so I build ML pipelines with one extra question in mind: *how can this break or be attacked?*
 
 I'm an **AMD ROCm Certified Associate**, and I like my pipelines **hardware-agnostic**: CPU, NVIDIA CUDA, AMD ROCm, cloud, on-prem or edge.
 
@@ -72,4 +72,4 @@ Need a model deployed, a pipeline automated, or an AI app tested before attacker
 
 <br/>
 
-<img src="assets/footer.svg" alt="Animated sea waves" width="100%"/>
+<img src="footer.svg" alt="Animated sea waves" width="100%"/>

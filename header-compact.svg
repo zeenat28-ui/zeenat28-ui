@@ -1,53 +1,96 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Zeenat Riaz, MLOps and AI Security Engineer" xmlns:c2pa="http://c2pa.org/manifest">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" role="img" aria-label="Zeenat Riaz, MLOps and AI Security Engineer">
 <title>Zeenat Riaz | MLOps and AI Security Engineer</title>
 <defs>
-<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A3550"/><stop offset="0.6" stop-color="#0B4A5E"/><stop offset="1" stop-color="#0C5F66"/></linearGradient>
-<linearGradient id="waterText" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#BFEBFF"/><stop offset="0.5" stop-color="#5FD3E0"/><stop offset="1" stop-color="#3FC6A0"/>
-<animateTransform attributeName="gradientTransform" type="translate" values="-0.25 0; 0.25 0; -0.25 0" dur="14s" repeatCount="indefinite"/></linearGradient>
-<radialGradient id="glow" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#7FE6F0" stop-opacity="0.2"/><stop offset="1" stop-color="#7FE6F0" stop-opacity="0"/></radialGradient>
-<clipPath id="nameClip"><text x="500.0" y="150" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="4">ZEENAT RIAZ</text></clipPath>
-<clipPath id="round"><rect width="1000" height="300" rx="16"/></clipPath>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#08283D"/>
+  <stop offset="0.5" stop-color="#0A3B4E"/>
+  <stop offset="1" stop-color="#0C4E57"/>
+</linearGradient>
+<linearGradient id="waterText" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#BFEBFF"/>
+  <stop offset="0.5" stop-color="#5FD3E0"/>
+  <stop offset="1" stop-color="#3FC6A0"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-0.25 0; 0.25 0; -0.25 0" dur="14s" repeatCount="indefinite"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.55">
+  <stop offset="0" stop-color="#7FE6F0" stop-opacity="0.22"/>
+  <stop offset="1" stop-color="#7FE6F0" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="nameClip">
+  <text x="600" y="112" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="4">ZEENAT RIAZ</text>
+</clipPath>
+<clipPath id="round">
+  <rect width="1200" height="220" rx="16"/>
+</clipPath>
 </defs>
-<g clip-path="url(#round)">
-<rect width="1000" height="300" fill="url(#sea)"/><rect width="1000" height="300" fill="url(#glow)"/>
-<circle cx="273" cy="320" r="4" fill="none" stroke="#BFF3FF" stroke-opacity="0.55" stroke-width="1.4"><animate attributeName="cy" from="320" to="-20" dur="13.6s" begin="-9.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="13.6s" begin="-9.7s" repeatCount="indefinite"/></circle>
-<circle cx="670" cy="320" r="3" fill="none" stroke="#BFF3FF" stroke-opacity="0.55" stroke-width="1.4"><animate attributeName="cy" from="320" to="-20" dur="15.2s" begin="-14.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="15.2s" begin="-14.5s" repeatCount="indefinite"/></circle>
-<circle cx="510" cy="320" r="5" fill="none" stroke="#BFF3FF" stroke-opacity="0.55" stroke-width="1.4"><animate attributeName="cy" from="320" to="-20" dur="14.9s" begin="-3.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="14.9s" begin="-3.1s" repeatCount="indefinite"/></circle>
-<circle cx="764" cy="320" r="6" fill="none" stroke="#BFF3FF" stroke-opacity="0.55" stroke-width="1.4"><animate attributeName="cy" from="320" to="-20" dur="14.8s" begin="-8.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="14.8s" begin="-8.8s" repeatCount="indefinite"/></circle>
-<circle cx="436" cy="320" r="4" fill="none" stroke="#BFF3FF" stroke-opacity="0.55" stroke-width="1.4"><animate attributeName="cy" from="320" to="-20" dur="12.6s" begin="-2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="12.6s" begin="-2.4s" repeatCount="indefinite"/></circle>
-<circle cx="565" cy="320" r="6" fill="none" stroke="#BFF3FF" stroke-opacity="0.55" stroke-width="1.4"><animate attributeName="cy" from="320" to="-20" dur="16.2s" begin="-10.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="16.2s" begin="-10.7s" repeatCount="indefinite"/></circle>
-<circle cx="95" cy="320" r="4" fill="none" stroke="#BFF3FF" stroke-opacity="0.55" stroke-width="1.4"><animate attributeName="cy" from="320" to="-20" dur="16.3s" begin="-9.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="16.3s" begin="-9.5s" repeatCount="indefinite"/></circle>
-<circle cx="338" cy="320" r="3" fill="none" stroke="#BFF3FF" stroke-opacity="0.55" stroke-width="1.4"><animate attributeName="cy" from="320" to="-20" dur="16.8s" begin="-4.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="16.8s" begin="-4.3s" repeatCount="indefinite"/></circle>
-<circle cx="639" cy="320" r="6" fill="none" stroke="#BFF3FF" stroke-opacity="0.55" stroke-width="1.4"><animate attributeName="cy" from="320" to="-20" dur="16.0s" begin="-14.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="16.0s" begin="-14.7s" repeatCount="indefinite"/></circle>
 
-<g clip-path="url(#nameClip)"><rect x="0" y="60" width="1000" height="110" fill="url(#waterText)"/>
-<path d="M-220 112 q55.0 -9 110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 V170 H-220 Z" fill="#E3F8FF" opacity="0.55"><animateTransform attributeName="transform" type="translate" from="0 0" to="-220 0" dur="11s" repeatCount="indefinite"/></path><path d="M-260 128 q65.0 -8 130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 V170 H-260 Z" fill="#2FB89A" opacity="0.55"><animateTransform attributeName="transform" type="translate" from="-260 0" to="0 0" dur="15s" repeatCount="indefinite"/></path><path d="M-180 142 q45.0 -6 90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 V170 H-180 Z" fill="#1E9C86" opacity="0.45"><animateTransform attributeName="transform" type="translate" from="0 0" to="-180 0" dur="9s" repeatCount="indefinite"/></path></g>
-<text x="500.0" y="200" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="3" fill="url(#waterText)">MLOps  ·  AI Security Engineer</text>
-<text x="500.0" y="228" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="5" fill="#9FE8DA" opacity="0.9">DEPLOY  ·  MONITOR  ·  SECURE<animate attributeName="opacity" values="0.65;1;0.65" dur="6s" repeatCount="indefinite"/></text>
-<g transform="translate(60 24)"><g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 3 -9; 0 0; -3 3.6; 0 0" dur="7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
-<rect width="108" height="34" rx="17" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
-<circle cx="17" cy="17" r="4" fill="#5FE0C4"/>
-<text x="30" y="22.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#D9F7FF">Docker</text></g></g><g transform="translate(290 16)"><g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 3 -9; 0 0; -3 3.6; 0 0" dur="8.5s" begin="-2s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
-<rect width="108" height="34" rx="17" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
-<circle cx="17" cy="17" r="4" fill="#5FE0C4"/>
-<text x="30" y="22.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#D9F7FF">MLflow</text></g></g><g transform="translate(520 28)"><g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 3 -9; 0 0; -3 3.6; 0 0" dur="9s" begin="-4s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
-<rect width="146" height="34" rx="17" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
-<circle cx="17" cy="17" r="4" fill="#5FE0C4"/>
-<text x="30" y="22.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#D9F7FF">Kubernetes</text></g></g><g transform="translate(790 18)"><g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 3 -9; 0 0; -3 3.6; 0 0" dur="7.5s" begin="-1s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
-<rect width="90" height="34" rx="17" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
-<circle cx="17" cy="17" r="4" fill="#5FE0C4"/>
-<text x="30" y="22.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#D9F7FF">ONNX</text></g></g><g transform="translate(22 128)"><g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 3 -9; 0 0; -3 3.6; 0 0" dur="8s" begin="-3s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
-<rect width="99" height="34" rx="17" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
-<circle cx="17" cy="17" r="4" fill="#5FE0C4"/>
-<text x="30" y="22.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#D9F7FF">CI/CD</text></g></g><g transform="translate(868 132)"><g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 3 -9; 0 0; -3 3.6; 0 0" dur="9.5s" begin="-5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
-<rect width="118" height="34" rx="17" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
-<circle cx="17" cy="17" r="4" fill="#5FE0C4"/>
-<text x="30" y="22.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#D9F7FF">PyTorch</text></g></g>
-<path d="M-300 258 q75.0 -10 150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 V340 H-300 Z" fill="#7FE0EE" opacity="0.28"><animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="16s" repeatCount="indefinite"/></path><path d="M-240 268 q60.0 -9 120.0 0 t120.0 0 t120.0 0 t120.0 0 t120.0 0 t120.0 0 t120.0 0 t120.0 0 t120.0 0 t120.0 0 t120.0 0 t120.0 0 V340 H-240 Z" fill="#3FC6A0" opacity="0.38"><animateTransform attributeName="transform" type="translate" from="-240 0" to="0 0" dur="12s" repeatCount="indefinite"/></path><path d="M-200 281 q50.0 -8 100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 t100.0 0 V340 H-200 Z" fill="#1E9C86" opacity="0.55"><animateTransform attributeName="transform" type="translate" from="0 0" to="-200 0" dur="9s" repeatCount="indefinite"/></path>
-</g><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphZTcxNDZiNC02MzdlLTQ4ZmItOTI1Ny0wZTA2NTU1NjI3ZDcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNJ3VMBuMzyvxn+uVjha0AQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplMWNlNmEyYS1mZDY5LTRhNTUtYTUwMy1lNWUxMWEzYjBkNzJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo/hy5w4+C2IwmrGMzfXivOQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg6u3AeDtljzmJcCkl4fiqpzu4aIuMUUbafe0nuCvbh5CkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPMXJjPl8DP9t5hT38upniYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIOX6UThNBzcDlUi+gXHRXtFZDj/9hTEcWDOiwiF9v4zeZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSfzZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmFlNzE0NmI0LTYzN2UtNDhmYi05MjU3LTBlMDY1NTU2MjdkNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA1YWJhNjA0LTQ0NmQtNDVkMy05MDllLTNlM2Y0OWVkYjAyNnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDq7cB4O2WPOYlwKSXh+KqnO7hoi4xRRtp97Se4K9uHkKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggiheSr8cB+thQp5sh33o1WN/8Y9JjmoU2XjhMR0ikpdKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggdqMVdaOe35UHWTfP4zH8MNFb9EhdJsPV4avp7+/luFx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCvZjNpMFpJkP12Dy4zgDnHAl60ioqRqDOgoA+p38hnYOUw6bRDCLWrZkhp51UlooVexhcFKeU1D+RcLxkBGKgI=</c2pa:manifest></metadata></svg>
+<g clip-path="url(#round)">
+<rect width="1200" height="220" fill="url(#sea)"/>
+<rect width="1200" height="220" fill="url(#glow)"/>
+
+<!-- Ambient bubbles -->
+<circle cx="120" cy="240" r="4" fill="none" stroke="#BFF3FF" stroke-opacity="0.5" stroke-width="1.4"><animate attributeName="cy" from="240" to="-20" dur="12s" begin="-4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.8;0" dur="12s" begin="-4s" repeatCount="indefinite"/></circle>
+<circle cx="260" cy="240" r="3" fill="none" stroke="#BFF3FF" stroke-opacity="0.5" stroke-width="1.4"><animate attributeName="cy" from="240" to="-20" dur="14s" begin="-8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.8;0" dur="14s" begin="-8s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="240" r="5" fill="none" stroke="#BFF3FF" stroke-opacity="0.5" stroke-width="1.4"><animate attributeName="cy" from="240" to="-20" dur="15s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.8;0" dur="15s" begin="-2s" repeatCount="indefinite"/></circle>
+<circle cx="750" cy="240" r="4" fill="none" stroke="#BFF3FF" stroke-opacity="0.5" stroke-width="1.4"><animate attributeName="cy" from="240" to="-20" dur="13s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.8;0" dur="13s" begin="-6s" repeatCount="indefinite"/></circle>
+<circle cx="940" cy="240" r="5" fill="none" stroke="#BFF3FF" stroke-opacity="0.5" stroke-width="1.4"><animate attributeName="cy" from="240" to="-20" dur="16s" begin="-10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.8;0" dur="16s" begin="-10s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="240" r="3" fill="none" stroke="#BFF3FF" stroke-opacity="0.5" stroke-width="1.4"><animate attributeName="cy" from="240" to="-20" dur="11s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.8;0" dur="11s" begin="-1s" repeatCount="indefinite"/></circle>
+
+<!-- Floating tech pills: Left wing -->
+<g transform="translate(45 32)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0; 0 5; 0 0" dur="7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
+<rect width="105" height="32" rx="16" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
+<circle cx="16" cy="16" r="4" fill="#5FE0C4"/>
+<text x="28" y="21" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#D9F7FF">Docker</text></g></g>
+
+<g transform="translate(195 24)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0; 0 5; 0 0" dur="8.5s" begin="-2s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
+<rect width="105" height="32" rx="16" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
+<circle cx="16" cy="16" r="4" fill="#5FE0C4"/>
+<text x="28" y="21" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#D9F7FF">MLflow</text></g></g>
+
+<g transform="translate(80 148)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0; 0 5; 0 0" dur="8s" begin="-3s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
+<rect width="95" height="32" rx="16" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
+<circle cx="16" cy="16" r="4" fill="#5FE0C4"/>
+<text x="28" y="21" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#D9F7FF">CI/CD</text></g></g>
+
+<!-- Floating tech pills: Right wing -->
+<g transform="translate(900 24)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0; 0 5; 0 0" dur="9s" begin="-4s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
+<rect width="140" height="32" rx="16" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
+<circle cx="16" cy="16" r="4" fill="#5FE0C4"/>
+<text x="28" y="21" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#D9F7FF">Kubernetes</text></g></g>
+
+<g transform="translate(1055 32)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0; 0 5; 0 0" dur="7.5s" begin="-1s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
+<rect width="90" height="32" rx="16" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
+<circle cx="16" cy="16" r="4" fill="#5FE0C4"/>
+<text x="28" y="21" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#D9F7FF">ONNX</text></g></g>
+
+<g transform="translate(1020 148)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0; 0 5; 0 0" dur="9.5s" begin="-5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
+<rect width="110" height="32" rx="16" fill="#CFF6FF" fill-opacity="0.10" stroke="#8FE9D8" stroke-opacity="0.55"/>
+<circle cx="16" cy="16" r="4" fill="#5FE0C4"/>
+<text x="28" y="21" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#D9F7FF">PyTorch</text></g></g>
+
+<!-- Animated Water Title -->
+<g clip-path="url(#nameClip)">
+  <rect x="150" y="20" width="900" height="120" fill="url(#waterText)"/>
+  <path d="M-220 75 q55.0 -8 110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 V140 H-220 Z" fill="#E3F8FF" opacity="0.55"><animateTransform attributeName="transform" type="translate" from="0 0" to="-220 0" dur="11s" repeatCount="indefinite"/></path>
+  <path d="M-260 90 q65.0 -7 130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 t130.0 0 V140 H-260 Z" fill="#2FB89A" opacity="0.55"><animateTransform attributeName="transform" type="translate" from="-260 0" to="0 0" dur="15s" repeatCount="indefinite"/></path>
+  <path d="M-180 102 q45.0 -5 90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 t90.0 0 V140 H-180 Z" fill="#1E9C86" opacity="0.45"><animateTransform attributeName="transform" type="translate" from="0 0" to="-180 0" dur="9s" repeatCount="indefinite"/></path>
+</g>
+
+<!-- Subtitle 1 -->
+<text x="600" y="154" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3" fill="url(#waterText)">MLOps &#183; AI Security Engineer</text>
+
+<!-- Subtitle 2 -->
+<text x="600" y="182" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="5" fill="#9FE8DA" opacity="0.9">DEPLOY &#183; MONITOR &#183; SECURE<animate attributeName="opacity" values="0.65;1;0.65" dur="6s" repeatCount="indefinite"/></text>
+
+<!-- Bottom subtle wave accents -->
+<path d="M-280 200 q70.0 -5 140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 t140.0 0 V220 H-280 Z" fill="#3FC6A0" opacity="0.2"><animateTransform attributeName="transform" type="translate" from="0 0" to="-280 0" dur="14s" repeatCount="indefinite"/></path>
+<path d="M-220 208 q55.0 -4 110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 V220 H-220 Z" fill="#1E9C86" opacity="0.35"><animateTransform attributeName="transform" type="translate" from="-220 0" to="0 0" dur="10s" repeatCount="indefinite"/></path>
+
+</g>
+</svg>

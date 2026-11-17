@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header-compact.svg" alt="Zeenat Riaz | MLOps and AI Security Engineer" width="680"/>
+<img src="header-compact.svg" alt="Zeenat Riaz | MLOps and AI Security Engineer" width="100%"/>
 
 </div>
 
@@ -60,4 +60,8 @@ Tell me about your model, your target environment and what needs to work. I will
 
 <br/>
 
-<img src="footer.svg" alt="" width="680"/>
+<div align="center">
+
+<img src="footer.svg" alt="" width="100%"/>
+
+</div>
